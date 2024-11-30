@@ -1,0 +1,9 @@
+.col img {
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  margin: auto;
+}
+.w-fit {
+  width: fit-content;
+}
